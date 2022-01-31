@@ -1,4 +1,3 @@
-import sys
 import pygame as pg
 import random as rd
 from PIL import Image
